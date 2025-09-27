@@ -1,0 +1,5 @@
+Emile;ZOLA;1840
+Victor;HUGO;1802
+George;SAND;1804
+Jane;AUSTEN;1775
+Mark;TWAIN;1835
